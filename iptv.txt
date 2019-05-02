@@ -535,8 +535,6 @@ http://144.217.254.99:25461/cjfp0k1t/puMEVgA3RX/3437
 http://144.217.254.99:25461/cjfp0k1t/puMEVgA3RX/3433
 #EXTINF:-1 tvg-id="" tvg-name="SBT "HD"" tvg-logo="" group-title="Canais: Abertos",SBT "HD"
 http://144.217.254.99:25461/cjfp0k1t/puMEVgA3RX/3428
-#EXTINF:-1 tvg-id="" tvg-name="REDLIGHT FULL HD." tvg-logo="" group-title="Canais: XXX - Adultos",REDLIGHT FULL HD.
-http://144.217.254.99:25461/cjfp0k1t/puMEVgA3RX/2433
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV SP SD." tvg-logo="" group-title="Canais: Abertos",REDE TV SP SD.
 http://144.217.254.99:25461/cjfp0k1t/puMEVgA3RX/3207
 #EXTINF:-1 tvg-id="" tvg-name="Rede TV SD." tvg-logo="" group-title="Canais: Abertos",Rede TV SD.
@@ -767,10 +765,6 @@ http://144.217.254.99:25461/cjfp0k1t/puMEVgA3RX/3236
 http://144.217.254.99:25461/cjfp0k1t/puMEVgA3RX/3235
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD." tvg-logo="" group-title="Canais: Filmes e Séries",TNT HD.
 http://144.217.254.99:25461/cjfp0k1t/puMEVgA3RX/3237
-#EXTINF:-1 tvg-id="" tvg-name="VENUS SD." tvg-logo="" group-title="Canais: XXX - Adultos",VENUS SD.
-http://144.217.254.99:25461/cjfp0k1t/puMEVgA3RX/2430
-#EXTINF:-1 tvg-id="" tvg-name="MEIDEN VAN HOLLAND SD." tvg-logo="" group-title="Canais: XXX - Adultos",MEIDEN VAN HOLLAND SD.
-http://144.217.254.99:25461/cjfp0k1t/puMEVgA3RX/2438
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 "SD"" tvg-logo="" group-title="Canais: Variedades",Arte 1 "SD"
 http://144.217.254.99:25461/cjfp0k1t/puMEVgA3RX/3873
 #EXTINF:-1 tvg-id="" tvg-name="Canal Brasil "SD"" tvg-logo="" group-title="Canais: Variedades",Canal Brasil "SD"
